@@ -58,6 +58,9 @@
     type="application/json" title="{{ .Site.Title }}" />
 {{ end }}
 
+<!-- KaTeX support -->
+{{ partial "katex.html" . }}
+
 <!-- Custom head tags -->
 {{- if templates.Exists "partials/extra-head.html" -}}
     {{ partial "extra-head.html" . }}
