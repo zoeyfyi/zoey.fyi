@@ -1,7 +1,7 @@
 ---
 title: "Implementing the completeness proof for the modal $\\mu$-calculus"
 date: 2020-04-12T22:26:50+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
