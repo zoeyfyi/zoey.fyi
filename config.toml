@@ -1,4 +1,47 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://mrbenshef.co.uk/"
+languageCode = "en-gb"
+title = "Hi, I'm Ben!"
 theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "fruity"
+
+[author]
+  name = "Ben Sheffield"
+
+[params]
+  defaultTheme = "dark"
+  
+  [params.logo] 
+    logoText     = "cd ~"
+    logoHomeLink = "/"
+  
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/mrbenshef/"
+
+  [[params.social]]
+    name = "facebook"
+    url  = "https://www.facebook.com/mrbenshef/"
+
+  [[params.social]]
+    name = "steam"
+    url  = "https://steamcommunity.com/id/mrbenshef/"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:me@mrbenshef.co.uk"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/mrbenshef/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/ben-sheffield-313a18164/"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
