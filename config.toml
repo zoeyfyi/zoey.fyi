@@ -25,6 +25,10 @@ PygmentsStyle = "fruity"
     url  = "https://www.facebook.com/mrbenshef/"
 
   [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/mrbenshef/"
+
+  [[params.social]]
     name = "steam"
     url  = "https://steamcommunity.com/id/mrbenshef/"
 
