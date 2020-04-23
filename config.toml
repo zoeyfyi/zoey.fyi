@@ -6,6 +6,9 @@ theme = "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "fruity"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [author]
   name = "Ben Sheffield"
 
