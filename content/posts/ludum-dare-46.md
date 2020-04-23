@@ -1,6 +1,6 @@
 ---
 title: "Ludum Dare 46 - Cell Defence"
-date: 2020-04-12T22:26:50+01:00
+date: 2020-04-23T14:07:00+01:00
 draft: false
 toc: false
 images:
@@ -11,7 +11,7 @@ tags:
 
 [Ludum Dare](https://ldjam.com/events/ludum-dare/rules) is a bi-annual event where you create a game _from scratch_ in 48 hours. That includes the code, art, sound - everything!
 
-The theme for ludum dare 46 was "keep it alive". Inspired by the ongoing pandemic I created a game about protecting a cell. You play as a nanobot tasked with defending the nucleus from the virus.
+The theme for Ludum Dare 46 was "keep it alive". Inspired by the ongoing pandemic I created a game about protecting a cell. You play as a nanobot tasked with defending the nucleus from a virus.
 
 ![Screenshot](/ludum-dare/46-screenshot.png)
 
@@ -30,7 +30,7 @@ Hopefully you are ready for the next round, because the virus is returning, and 
 - A - fly left
 - D - fly right
 - E - interact
-- Left click - Shoot
+- Left click - shoot
 
 <iframe src="https://itch.io/embed/616671?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://mrbenshef.itch.io/cell-defence">Cell Defence by mrbenshef</a></iframe>
 
