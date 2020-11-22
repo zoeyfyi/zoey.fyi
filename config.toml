@@ -1,4 +1,4 @@
-baseURL = "https://mrbenshef.co.uk/"
+baseURL = "https://zoey.fyi/"
 languageCode = "en-gb"
 title = "Hi, I'm Zoey!"
 theme = "hello-friend-ng"
@@ -10,7 +10,7 @@ PygmentsStyle = "fruity"
   unsafe= true
 
 [author]
-  name = "Ben Sheffield"
+  name = "Zoey Sheffield"
 
 [params]
   defaultTheme = "dark"
