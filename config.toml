@@ -1,6 +1,6 @@
 baseURL = "https://mrbenshef.co.uk/"
 languageCode = "en-gb"
-title = "Hi, I'm Ben!"
+title = "Hi, I'm Zoey!"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -21,23 +21,23 @@ PygmentsStyle = "fruity"
   
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/mrbenshef/"
+    url  = "https://twitter.com/zoeyfyi/"
 
   [[params.social]]
     name = "facebook"
-    url  = "https://www.facebook.com/mrbenshef/"
+    url  = "https://www.facebook.com/zoeyfyi/"
 
   [[params.social]]
     name = "instagram"
-    url  = "https://www.instagram.com/mrbenshef/"
+    url  = "https://www.instagram.com/zoeyfyi/"
 
   [[params.social]]
     name = "steam"
-    url  = "https://steamcommunity.com/id/mrbenshef/"
+    url  = "https://steamcommunity.com/id/zoeyfyi/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:me@mrbenshef.co.uk"
+    url  = "mailto:me@zoey.fyi"
 
   [[params.social]]
     name = "github"
