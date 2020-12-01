@@ -41,11 +41,7 @@ PygmentsStyle = "fruity"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/mrbenshef/"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/ben-sheffield-313a18164/"
+    url  = "https://github.com/zoeyfyi/"
 
 [menu]
   [[menu.main]]
