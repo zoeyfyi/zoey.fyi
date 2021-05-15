@@ -1,4 +1,4 @@
-baseURL = "https://zoey.fyi/"
+baseURL = ""
 languageCode = "en-gb"
 title = "Hi, I'm Zoey!"
 theme = "hello-friend-ng"
